@@ -4,22 +4,22 @@
 <h2>Table of contents</h2>
 <ul>
   <li>
-    <a href="/README.md/#generalInfo">General info</a>
+    <a href="#generalInfo">General info</a>
   </li>
       <li>
-    <a href="/README.md/#schematics">Schematics</a>
+    <a href="#schematics">Schematics</a>
   </li>
     <li>
-    <a href="/README.md/#images">Images</a>
+    <a href="#images">Images</a>
   </li>
   <li>
-    <a href="/README.md/#components">Base of components</a>
+    <a href="#components">Base of components</a>
   </li>
    <li>
-    <a href="/README.md/#environment">Programming environment</a>
+    <a href="#environment">Programming environment</a>
   </li>
   <li>
-    <a href="/README.md/#status">Project status</a>
+    <a href="#status">Project status</a>
   </li>
   </ul>
   <h2 id="generalInfo">General info</h2>
